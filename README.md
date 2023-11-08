@@ -8,8 +8,8 @@ o Docker file - image and configuration, docker file to build and run the applic
 o Application to replace Hello World ! <br>
 o Optional string set using an environment variable and defaulting to Hello world <br>
 
-<u>How to test</u>
-o move to a folder of your choice for test
+<u>How to test</u><br>
+o move to a folder of your choice for test<br>
 o requires git/docker/browswer for the test<br>
 <u>steps</u>
 1. git clone https://github.com/richducatti/pythonapp.git
